@@ -1,0 +1,42 @@
+body {
+  font-family: Arial;
+  background: #f4f4f4;
+  text-align: center;
+}
+
+nav {
+  background: red;
+  padding: 10px;
+}
+
+nav a {
+  color: white;
+  margin: 10px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+input, select, button {
+  padding: 10px;
+  margin: 8px;
+  width: 260px;
+}
+
+.radio {
+  margin: 10px;
+}
+
+button {
+  background: red;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.card {
+  background: white;
+  width: 320px;
+  margin: 10px auto;
+  padding: 10px;
+  border-radius: 5px;
+}
